@@ -128,7 +128,7 @@ Github Repo Link: https://github.com/samlandfried/sql_tutorial.git
 
 ## Sergey Lukayaneko
 
-Github Repo Link:
+Github Repo Link: https://github.com/lukyans/Task_Manager
 
 -----
 
